@@ -1,0 +1,23 @@
+{
+  "name": "star-wars-app",
+  "version": "1.0.0",
+  "description": "star wars app",
+  "main": "server6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cperez2187/star-wars-app.git"
+  },
+  "author": "Cesar Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cperez2187/star-wars-app/issues"
+  },
+  "homepage": "https://github.com/Cperez2187/star-wars-app#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
